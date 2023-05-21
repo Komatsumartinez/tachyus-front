@@ -8,6 +8,21 @@ This project was created with the following libraries:
 # Notes
 * On the Production Chart, i limit with 20 records to avoid a bad performance loading all the 24.000 records from production CSV
 
+## Screenshots
+* Completions Grid
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/7e0b5d9e-d447-49a2-9242-45c1d9c2a6d0)
+* Completions Grid Filter
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/3e71fa98-05cb-40a5-875d-5e6031e02266)
+* Completions Grid Update Name
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/9fb13086-8042-4b4c-a634-fb04dc4cd34f)
+
+* Production Grid
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/b64b1c09-329b-4920-83cc-6465739321ad)
+* Production Chart
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/ff4d2a28-0fd5-4915-b6b9-306d4f6f7731)
+* Map Visualization
+![image](https://github.com/Komatsumartinez/tachyus-front/assets/47226535/6f0b9a72-d0bf-41f1-a07d-26f9ebc092d4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
