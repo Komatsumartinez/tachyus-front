@@ -68,7 +68,7 @@ const MapVisualization = ({ completionsData }) => {
         <div>
             <h2>Map Visualization</h2>
             <MapContainer
-                bounds={calculateMapBounds()} // Establecer los límites del mapa
+                bounds={calculateMapBounds()}
                 style={{ height: "400px", width: "100%" }}
             >
                 <TileLayer
